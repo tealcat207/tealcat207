@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tealcat207
 - 👀 I’m interested in Python!
 - 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on Nothing!
+- 💞️ I’m looking to collaborate on a typing game I am working on!
 - 📫 How to reach me: tealcat207@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love scrimba and github!
