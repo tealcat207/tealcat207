@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python!
 - 🌱 I’m currently learning Python!
 - 📫 How to reach me: tealcat207@gmail.com
-- 😄 Pronouns: He/They/Him/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love scrimba and github!
 
 <!---
