@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @tealcat207
-- 👀 I’m interested in Python!
-- 🌱 I’m currently learning Python!
-- 📫 How to reach me: tealcat207@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love scrimba and github!
-
-<!---
-tealcat207/tealcat207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&width=435&lines=Hello%2C+my+name+is+tealcat207;I+hope+you+like+my+repositories)](https://git.io/typing-svg)
